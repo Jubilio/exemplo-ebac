@@ -1,2 +1,2 @@
 # exemplo-ebac
-Exemplos de projectos para o curso de Especialista Java da Ebac
+Exemplos de projectos para o curso de Especialista BackEnd Java da Ebac.
